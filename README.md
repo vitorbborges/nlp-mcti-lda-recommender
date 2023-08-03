@@ -1,5 +1,3 @@
-# NLP MCTI LDA Recommender 📊
-
 ---
 title: NLP MCTI LDA Recommender
 emoji: 📊
@@ -10,6 +8,8 @@ sdk_version: 3.9.1
 app_file: app.py
 pinned: false
 ---
+
+# NLP MCTI LDA Recommender 📊
 
 This repository contains the code for a Gradio app that implements a unique recommendation system using the Netflix svd++ algorithm. The app is hosted on Hugging Face at the following URL: [NLP MCTI LDA Recommender](https://huggingface.co/spaces/unb-lamfo-nlp-mcti/nlp-mcti-lda-recommender)
 
